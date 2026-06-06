@@ -1,0 +1,53 @@
+CONTRACT TERMS AND BILLING POLICY
+FinSight Legal and Finance Team — 2026
+
+BILLING CYCLES
+
+Monthly Billing:
+- Charged on the same date each month (anniversary billing)
+- No long-term commitment
+- Full price — no discount
+- Can upgrade or downgrade at any time
+- Cancellation effective at end of current billing period
+- No refunds for partial months
+
+Annual Billing:
+- 20% discount applied to all tiers
+- Paid upfront for full 12 months
+- Can upgrade mid-year (prorated charge for remainder of term)
+- Cannot downgrade mid-year
+- Cancellation: No refund for remaining months (store credit offered for extenuating circumstances)
+- Auto-renews unless cancelled 30 days before renewal date
+
+Multi-Year Billing (Enterprise only):
+- 2-year: 25% discount
+- 3-year: 30% discount
+- Custom payment schedules available (annual instalments)
+- Price locked for full contract term — no price increases
+- Early termination fee: 50% of remaining contract value
+
+FREE TRIALS
+- 14-day free trial on Starter and Growth
+- No credit card required for trial
+- Full feature access during trial
+- Trial-to-paid conversion rate target: 22%
+- Trial extension policy: Up to 7 additional days with Sales approval
+
+ENTERPRISE PILOT TERMS
+- Paid pilots only (minimum $500 for 30-day pilot)
+- Pilot fee credited against first year contract if signed
+- Pilot must include defined success criteria agreed upfront
+- No free pilots without VP Sales approval
+
+REFUND POLICY
+- Monthly plans: No refunds
+- Annual plans: Refund within 14 days of annual renewal if requested (minus usage)
+- Enterprise: Per contract terms
+- Exceptions: Technical failures causing significant downtime (beyond SLA breach thresholds) eligible for prorated credit
+
+PRICE INCREASE POLICY
+- 60 days written notice required for any price increase
+- Annual contract customers: Price increase effective at next renewal only
+- Monthly customers: Price increase effective 60 days after notice
+- Maximum increase without individual negotiation: 15% per year
+- Increases above 15% require customer success outreach before notice

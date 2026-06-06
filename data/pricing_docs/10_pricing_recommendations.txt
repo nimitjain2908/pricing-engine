@@ -1,0 +1,33 @@
+EXECUTIVE PRICING RECOMMENDATIONS — Q2 2026
+Prepared by: Pricing Committee
+Distribution: Leadership Team Only
+
+SUMMARY OF RECOMMENDATIONS
+
+1. MAINTAIN CURRENT TIER STRUCTURE
+Recommendation: Do not change the three-tier structure (Starter, Growth, Enterprise) for the remainder of 2026.
+Rationale: Competitor analysis shows our tier structure is well-positioned. Customer research confirms high satisfaction with plan differentiation. Restructuring tiers risks confusion and churn among existing customers.
+
+2. MODEST PRICE INCREASE ON STARTER TIER
+Recommendation: Increase Starter from $45 to $49/month effective Q3 2026.
+Rationale: Starter is our lowest-margin tier at 35% gross margin. The $4 increase (8.9%) is within the safe zone identified in churn analysis (under 10% without feature additions). We will pair this with addition of a fourth bank integration slot (currently 3) to justify the increase.
+Expected impact: 2-3% churn increase in Starter, offset by improved margin. Net positive.
+
+3. LAUNCH AI INSIGHTS PRO ADD-ON
+Recommendation: Launch AI Insights Pro at $49/month in Q3 2026.
+Rationale: 68% of surveyed Growth customers expressed interest in AI-generated monthly insights. Add-on pricing at 35% of Growth base price is within acceptable range. Estimated 15% attach rate in first 6 months = $180K additional ARR.
+
+4. INCREASE ANNUAL DISCOUNT VISIBILITY
+Recommendation: Make annual plan the default selection on pricing page (currently monthly is default).
+Rationale: A/B test showed 23% increase in annual plan selection when shown as default. Annual customers have 2.1x lower churn rate. Improving annual mix from current 48% to 58% would improve NRR by approximately 4 points.
+
+5. INTRODUCE STARTUP PROGRAM FORMALLY
+Recommendation: Launch formal FinSight for Startups program at 40% discount for qualifying startups.
+Rationale: Startups that grow with us become high-value customers. Investing in discounted acquisition now yields strong LTV. Program to be co-marketed with 3 accelerators in Q3 2026.
+
+6. DO NOT REDUCE ENTERPRISE FLOOR PRICE
+Recommendation: Maintain Enterprise floor at $499/month despite sales team requests to lower to $399.
+Rationale: Lowering the floor would compress margins on deals that should be higher value. Sales team should be trained to sell value at current price point, not compete on price at the low end of Enterprise.
+
+OVERALL PRICING HEALTH ASSESSMENT
+Current pricing is competitive and well-structured. Primary opportunity is in mix improvement (more annual plans) and expansion revenue (add-ons and upgrades) rather than base price changes. Recommend a full pricing review again in Q4 2026 ahead of 2027 planning.

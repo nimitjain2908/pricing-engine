@@ -1,0 +1,45 @@
+CHURN AND PRICING CORRELATION ANALYSIS
+FinSight Data Science Team — Q1 2026
+
+EXECUTIVE SUMMARY
+Analysis of 3,200 customer accounts over 24 months reveals strong correlations between pricing decisions, plan type, and churn behaviour. Key finding: contract length is the single strongest predictor of retention, followed by feature adoption depth.
+
+CHURN RATES BY PLAN
+
+Starter Plan:
+- Monthly churn rate: 8.2%
+- Annual churn rate: 4.1%
+- Primary churn reason: Price (42%), Found free alternative (28%), Business closed (18%), Missing features (12%)
+- Average customer lifetime: 14 months (monthly billing), 22 months (annual billing)
+
+Growth Plan:
+- Monthly churn rate: 3.8%
+- Annual churn rate: 1.9%
+- Primary churn reason: Missing features (35%), Price increase (25%), Competitor switch (22%), Business downturn (18%)
+- Average customer lifetime: 28 months (monthly billing), 44 months (annual billing)
+
+Enterprise Plan:
+- Annual churn rate: 6.5% (higher due to deliberate offboarding of low-fit accounts)
+- Primary churn reason: Consolidation to ERP (45%), Budget cuts (30%), Competitor (25%)
+- Average customer lifetime: 38 months
+
+IMPACT OF PRICE INCREASES ON CHURN
+
+Historical price increase analysis:
+- 2023: 8% price increase on Starter — churn increased 1.2% in following quarter, normalised after 2 quarters
+- 2024: 12% price increase on Growth — churn increased 2.8%, did not fully normalise (net negative)
+- 2025: 5% price increase with feature additions — churn decreased 0.3% (customers perceived value increase)
+
+Key insight: Price increases without accompanying feature additions or value communication drive lasting churn increases. Price increases paired with genuine value additions can be neutral or positive for retention.
+
+FEATURE ADOPTION AND CHURN CORRELATION
+Customers using 3+ integrations: 1.8x less likely to churn
+Customers using forecasting feature: 2.1x less likely to churn
+Customers using API: 3.2x less likely to churn
+Customers who attended onboarding webinar: 1.6x less likely to churn
+
+RECOMMENDATIONS
+1. Prioritise driving feature adoption in first 90 days — especially forecasting and integrations
+2. Any price increase above 8% must be paired with new features or risk lasting churn increase
+3. Annual billing incentives should be increased to drive monthly-to-annual conversion
+4. At-risk customers (low feature adoption + monthly billing) should receive proactive outreach before renewal

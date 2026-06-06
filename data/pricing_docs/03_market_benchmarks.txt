@@ -1,0 +1,52 @@
+MARKET BENCHMARKS REPORT — B2B FINTECH SAAS PRICING
+Source: Industry Research Q1 2026
+
+INDUSTRY AVERAGE PRICING BY SEGMENT
+
+Micro-business segment (1-10 employees):
+- Average monthly spend on financial software: $45-$75
+- Willingness to pay ceiling: $99/month
+- Price sensitivity: Very high
+- Key buying criteria: Ease of use, price, mobile access
+- Average contract length: Month-to-month (67%), Annual (33%)
+
+Small business segment (10-50 employees):
+- Average monthly spend on financial software: $120-$200
+- Willingness to pay ceiling: $299/month
+- Price sensitivity: Moderate
+- Key buying criteria: Integrations, reporting depth, support quality
+- Average contract length: Month-to-month (45%), Annual (55%)
+
+Mid-market segment (50-500 employees):
+- Average monthly spend on financial software: $400-$1,500
+- Willingness to pay ceiling: $3,000/month
+- Price sensitivity: Low
+- Key buying criteria: Security, compliance, SLA, dedicated support
+- Average contract length: Annual (80%), Multi-year (20%)
+
+BENCHMARKS BY METRIC
+
+Average Revenue Per User (ARPU):
+- Micro-business tools: $18-$25/user/month
+- SMB tools: $12-$20/user/month (per seat pricing)
+- Mid-market tools: $8-$15/user/month (volume discounts apply)
+
+Net Revenue Retention (NRR) benchmarks:
+- Top quartile SaaS: 120%+
+- Median SaaS: 106%
+- Bottom quartile: Below 100%
+
+Annual Contract Value (ACV) benchmarks:
+- SMB focused: $1,200-$3,600 ACV
+- Mid-market focused: $12,000-$60,000 ACV
+- Enterprise focused: $60,000+ ACV
+
+PRICING MODEL TRENDS
+- Usage-based pricing adoption growing 34% YoY in fintech
+- Flat-rate plans still preferred by 58% of SMB buyers
+- Hybrid models (base fee + usage) gaining traction at mid-market
+- Free tier conversion rates industry average: 6-12%
+- Trial-to-paid conversion average: 18-25%
+
+PRICE ELASTICITY FINDINGS
+Research indicates that for B2B SaaS in the $50-$200/month range, a 10% price increase results in approximately 3-7% customer churn if not accompanied by feature additions. Price increases above 20% require significant value justification to avoid churn spikes.

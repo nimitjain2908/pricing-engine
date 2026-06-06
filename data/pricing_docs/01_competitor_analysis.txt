@@ -1,0 +1,40 @@
+COMPETITOR PRICING ANALYSIS — Q2 2026
+Prepared by: Pricing Intelligence Team
+
+OVERVIEW
+This document summarises pricing intelligence gathered on key competitors in the B2B SaaS fintech segment. Data was collected through public pricing pages, customer interviews, and third-party research reports.
+
+COMPETITOR 1: FinTrack Pro
+- Starter Plan: $49/month (up to 5 users, basic analytics)
+- Growth Plan: $149/month (up to 20 users, advanced reporting, API access)
+- Enterprise Plan: Custom pricing (unlimited users, dedicated support, SLA guarantees)
+- Key observation: FinTrack Pro recently reduced Starter plan from $59 to $49 to capture SMB market. Churn rate reportedly increased at Growth tier due to feature gaps.
+
+COMPETITOR 2: LedgerAI
+- Basic: $39/month (3 users, manual data entry)
+- Professional: $129/month (15 users, AI categorisation, integrations)
+- Enterprise: $399/month (50 users, white labelling, priority support)
+- Key observation: LedgerAI charges per integration above 5 integrations at $15/month each. Customers report dissatisfaction with this model. Opportunity to win customers with flat-rate integration pricing.
+
+COMPETITOR 3: CashFlow360
+- Solo: $29/month (1 user, basic cash flow tracking)
+- Team: $99/month (10 users, forecasting, alerts)
+- Business: $249/month (25 users, multi-entity, custom reports)
+- Key observation: CashFlow360 dominates the solo and micro-business segment. Not a direct competitor at mid-market. Their Team plan is underpriced relative to value delivered.
+
+COMPETITOR 4: PaySense Analytics
+- Free tier: Limited to 100 transactions/month
+- Pro: $79/month (unlimited transactions, 10 users)
+- Scale: $199/month (unlimited everything, priority onboarding)
+- Key observation: PaySense's free tier is a strong acquisition tool but conversion to paid is low at 8%. Their Pro plan is the most comparable to our Growth offering.
+
+PRICING GAPS AND OPPORTUNITIES
+1. No competitor offers a mid-tier plan between $99-$149 with more than 15 users. This is a gap we can exploit.
+2. Per-user pricing above 20 users becomes expensive across all competitors. Flat-rate enterprise pricing is a differentiator.
+3. Annual discount offerings range from 15% to 20% across competitors. We should offer 20% to remain competitive.
+4. Integration pricing is a pain point for LedgerAI customers — flat-rate integrations is a competitive advantage.
+
+RECOMMENDATIONS
+- Price our Growth plan at $139/month to undercut LedgerAI Professional at $129 while offering more users.
+- Offer a 20% annual discount to match the best available in market.
+- Emphasise flat-rate integrations in all marketing materials targeting LedgerAI customers.

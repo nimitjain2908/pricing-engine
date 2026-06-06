@@ -1,0 +1,50 @@
+INTERNAL PRICING TIERS DOCUMENT
+Product: FinSight SaaS Platform
+Last Updated: Q2 2026
+
+TIER 1: STARTER — $45/month (billed monthly) | $36/month (billed annually)
+Target: Freelancers, solopreneurs, micro-businesses
+Users: Up to 3
+Features:
+- Basic cash flow tracking
+- Up to 500 transactions/month
+- 3 bank integrations
+- Standard reports (P&L, balance sheet)
+- Email support (48hr response)
+- Mobile app access
+
+Rationale: Starter is a land-and-expand play. Margin at this tier is low (estimated 35%) but LTV increases significantly when customers upgrade to Growth within 12 months. 40% of Starter customers upgrade within 9 months.
+
+TIER 2: GROWTH — $139/month (billed monthly) | $111/month (billed annually)
+Target: Small businesses, growing startups (10-50 employees)
+Users: Up to 25
+Features:
+- Everything in Starter
+- Unlimited transactions
+- Unlimited integrations (flat rate)
+- AI-powered categorisation
+- Cash flow forecasting (90-day)
+- Advanced analytics and custom reports
+- Priority email support (12hr response)
+- API access (10,000 calls/month)
+
+Rationale: Growth is our primary revenue driver. Target gross margin is 65%. The jump from Starter to Growth is intentionally steep in features to drive upgrades. Annual plan penetration target is 55%.
+
+TIER 3: ENTERPRISE — Custom pricing (starting $499/month)
+Target: Mid-market companies (50-500 employees), multi-entity businesses
+Users: Unlimited
+Features:
+- Everything in Growth
+- Multi-entity consolidation
+- White labelling options
+- Dedicated customer success manager
+- SLA: 99.9% uptime guarantee
+- SSO and advanced security
+- Unlimited API calls
+- Custom integrations on request
+- Quarterly business reviews
+
+Rationale: Enterprise deals are typically annual contracts ranging from $6,000 to $60,000 ARR. Sales-assisted motion. Average contract value is $18,000 ARR. Target gross margin is 75%.
+
+PRICING PHILOSOPHY
+Our pricing is value-based, not cost-plus. We price based on the value delivered to the customer segment, anchored against competitor pricing but not determined by it. Price increases should be communicated 60 days in advance with clear value justification.

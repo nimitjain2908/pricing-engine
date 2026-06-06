@@ -1,0 +1,47 @@
+EXPANSION REVENUE AND UPSELL PRICING STRATEGY
+FinSight Revenue Team — Q2 2026
+
+OVERVIEW
+Expansion revenue (revenue from existing customers through upgrades, add-ons, and seat expansions) currently represents 28% of new ARR. Industry benchmark for best-in-class SaaS is 35-40%. This document outlines pricing strategy to close that gap.
+
+CURRENT EXPANSION REVENUE BREAKDOWN
+- Plan upgrades (Starter to Growth): 45% of expansion ARR
+- Plan upgrades (Growth to Enterprise): 30% of expansion ARR
+- Seat expansions within tier: 15% of expansion ARR
+- Add-on purchases: 10% of expansion ARR
+
+UPGRADE TRIGGERS AND PRICING
+
+Starter to Growth upgrade triggers:
+- User limit reached (most common — 38% of upgrades)
+- Transaction limit reached (22% of upgrades)
+- Request for API access (18% of upgrades)
+- Request for forecasting (15% of upgrades)
+- Other (7%)
+
+Recommendation: Surface upgrade prompts at 80% of limit utilisation, not 100%. Earlier prompting increases conversion.
+
+Growth to Enterprise upgrade triggers:
+- Multi-entity requirement (most common)
+- SSO requirement from IT team
+- Dedicated support request
+- White labelling request
+
+ADD-ON PRICING STRATEGY
+
+Current add-ons:
+- Additional API calls: $29/month per 10,000 additional calls
+- Advanced audit log: $19/month
+- Custom data retention (7 years): $29/month
+
+Proposed new add-ons:
+- AI Insights Pro: $49/month — AI-generated monthly insights report
+- Priority onboarding: $299 one-time — dedicated onboarding specialist for 4 sessions
+- Custom integrations: $199/month — one custom integration built and maintained
+
+Add-on pricing philosophy: Add-ons should be priced at 20-30% of the base plan price to feel like a reasonable incremental spend, not a significant new commitment.
+
+NET REVENUE RETENTION TARGET
+Current NRR: 108%
+Target NRR: 118% by end of 2026
+Strategy: Drive 40% more Growth-to-Enterprise upgrades through proactive CSM outreach at 12-month mark, and launch AI Insights Pro add-on in Q3 2026.

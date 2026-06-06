@@ -1,0 +1,51 @@
+GEOGRAPHIC PRICING STRATEGY
+FinSight Global Expansion Team — Q1 2026
+
+OVERVIEW
+As FinSight expands beyond the US market, pricing must reflect local purchasing power, competitive dynamics, and willingness to pay by geography. This document outlines our geographic pricing framework.
+
+PRICING BY REGION
+
+North America (Base pricing):
+- Starter: $45/month
+- Growth: $139/month
+- Enterprise: Starting $499/month
+- Market maturity: High. Customers expect full feature sets and strong support.
+
+United Kingdom:
+- Starter: £38/month (approximately 15% below US PPP-adjusted)
+- Growth: £115/month
+- Enterprise: Starting £399/month
+- Notes: Strong accounting software market. Xero dominates. Must emphasise integrations with UK-specific tools (FreeAgent, Sage).
+
+European Union:
+- Starter: €42/month
+- Growth: €125/month
+- Enterprise: Starting €449/month
+- Notes: GDPR compliance is a strong selling point. Data residency in EU is a requirement for many customers. Price in local currency where possible.
+
+India:
+- Starter: ₹2,499/month (approximately 70% discount to US pricing on PPP basis)
+- Growth: ₹7,999/month
+- Enterprise: Starting ₹29,999/month
+- Notes: Fast-growing market. Price sensitivity is high. GST compliance features are a must-have. Partnership with local accounting firms recommended.
+
+Southeast Asia:
+- Pricing at 60-65% of US pricing across tiers
+- Singapore is exception — price at 85% of US pricing (higher WTP)
+- Notes: Localisation of currency and tax compliance features required before launch.
+
+PURCHASING POWER PARITY ADJUSTMENT FRAMEWORK
+We use a PPP adjustment factor for each market:
+- US: 1.0 (base)
+- UK: 0.85
+- EU: 0.88
+- Canada: 0.90
+- Australia: 0.92
+- India: 0.28
+- Southeast Asia: 0.55-0.70
+
+CURRENCY AND BILLING
+- All non-US billing in local currency where Stripe supports it
+- Exchange rate locked at contract signing for annual deals
+- Monthly deals subject to exchange rate fluctuation with 30-day notice of significant changes

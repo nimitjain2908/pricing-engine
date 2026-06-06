@@ -1,0 +1,56 @@
+DISCOUNT AND PRICING POLICY
+FinSight Internal Document — Confidential
+Effective: January 2026
+
+STANDARD DISCOUNTS (No approval required)
+
+Annual Plan Discount:
+- 20% discount for annual upfront payment
+- Applied automatically at checkout
+- Non-negotiable, non-stackable with other discounts
+
+Nonprofit Discount:
+- 30% discount for registered nonprofits
+- Requires verification of nonprofit status
+- Applied to any tier, annual or monthly
+
+Startup Discount:
+- 25% discount for companies under 2 years old with under $1M ARR
+- Requires proof of incorporation date
+- Valid for first 12 months only, then full price applies
+
+NEGOTIATED DISCOUNTS (Sales approval required)
+
+Volume Discount — Growth Tier:
+- 5% additional discount for 3-year commitment
+- 10% additional discount for 5+ seat purchases on Enterprise
+- Requires VP Sales approval
+
+Competitive Displacement Discount:
+- Up to 20% additional discount when displacing a named competitor
+- Must provide proof of competitor contract or invoice
+- Valid for first contract term only
+- Requires Sales Director approval
+
+DISCOUNTS THAT REQUIRE CEO APPROVAL
+- Any discount exceeding 40% of list price
+- Free or heavily subsidised pilots exceeding 6 months
+- Custom pricing below Enterprise floor of $499/month
+
+DISCOUNT STACKING RULES
+- Maximum two discounts can be stacked
+- Annual discount can be stacked with one other discount
+- Total discount cannot exceed 45% of list price without CEO approval
+
+DISCOUNT ABUSE PREVENTION
+- All discounts must be logged in CRM with justification
+- Discounts above 25% require documented competitive intelligence
+- Quarterly audit of discount patterns by Finance team
+- Sales commission calculated on discounted ARR to prevent over-discounting
+
+PRICING EXCEPTIONS PROCESS
+1. Sales rep submits pricing exception request in CRM
+2. Sales Manager reviews within 24 hours
+3. VP Sales approves discounts up to 35%
+4. CEO approves discounts above 35%
+5. All exceptions logged for quarterly review

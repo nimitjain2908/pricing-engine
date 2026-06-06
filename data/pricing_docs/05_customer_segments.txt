@@ -1,0 +1,56 @@
+CUSTOMER SEGMENTATION AND WILLINGNESS TO PAY ANALYSIS
+FinSight Research Team — Q1 2026
+
+SEGMENT 1: THE SOLO OPERATOR
+Profile: Freelancer, consultant, or solopreneur managing their own finances
+Company size: 1 person
+Annual revenue: Under $500K
+Pain points: Spending too much time on manual bookkeeping, no visibility into cash flow
+Current solution: Spreadsheets or basic tools like Wave (free)
+Willingness to pay: $20-$50/month
+Price sensitivity: Extremely high — will churn if price increases by more than $10/month
+Upgrade likelihood: Low — typically stays at Starter or churns
+Key feature needs: Simplicity, mobile access, bank sync, basic invoicing
+Acquisition channel: SEO, social media, word of mouth
+
+SEGMENT 2: THE GROWING STARTUP
+Profile: Seed to Series A startup with a small finance team
+Company size: 5-30 employees
+Annual revenue: $500K-$5M
+Pain points: Outgrowing spreadsheets, need for investor-ready reporting, multiple integrations
+Current solution: QuickBooks or Xero
+Willingness to pay: $100-$250/month
+Price sensitivity: Moderate — will pay for clear ROI
+Upgrade likelihood: High — 60% upgrade to Growth within 6 months
+Key feature needs: API access, custom reports, forecasting, Slack/Notion integrations
+Acquisition channel: Product Hunt, SaaS communities, LinkedIn ads
+
+SEGMENT 3: THE ESTABLISHED SMB
+Profile: Profitable small business with dedicated finance manager
+Company size: 20-100 employees
+Annual revenue: $2M-$20M
+Pain points: Multi-entity consolidation, audit trails, compliance reporting
+Current solution: Legacy accounting software (Sage, older QuickBooks)
+Willingness to pay: $200-$600/month
+Price sensitivity: Low — values stability and support over price
+Upgrade likelihood: Moderate — tends to stay at Growth unless actively sold to
+Key feature needs: Multi-entity, audit trails, dedicated support, SSO
+Acquisition channel: Referrals, accountant partnerships, industry events
+
+SEGMENT 4: THE MID-MARKET COMPANY
+Profile: Scaling company with finance team of 3-10 people
+Company size: 100-500 employees
+Annual revenue: $20M-$200M
+Pain points: ERP integration, complex consolidation, board-level reporting
+Current solution: NetSuite lite or custom solutions
+Willingness to pay: $500-$3,000/month
+Price sensitivity: Low — buying on value and trust
+Upgrade likelihood: High once in — strong NRR from expansion
+Key feature needs: ERP integration, white labelling, dedicated CSM, SLA
+Acquisition channel: Direct sales, partner referrals, analyst relations
+
+SEGMENT REVENUE CONTRIBUTION
+- Solo Operator: 15% of customer count, 4% of ARR
+- Growing Startup: 45% of customer count, 31% of ARR
+- Established SMB: 30% of customer count, 35% of ARR
+- Mid-Market: 10% of customer count, 30% of ARR
